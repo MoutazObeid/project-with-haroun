@@ -13,7 +13,5 @@ print("waitnig your responde")
 
 print("thank you")
 
-number = 1000
 
-print("number")
 
