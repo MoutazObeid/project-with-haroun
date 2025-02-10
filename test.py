@@ -12,3 +12,10 @@ print("waitnig your responde")
 
 
 print("thank you")
+
+a = int(input("enter a number: "))
+b= int(input("enter a number: "))
+
+sum= a + b
+
+print(sum)
