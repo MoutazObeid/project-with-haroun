@@ -19,3 +19,7 @@ b= int(input("enter a number: "))
 sum= a + b
 
 print(sum)
+
+print("the sum is "+str(sum))
+
+
