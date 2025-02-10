@@ -21,3 +21,6 @@ sum= a + b
 print(sum)
 
 print("hello2 again")
+print("the sum is "+str(sum))
+
+
